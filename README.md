@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tayouan-nursing-home
 
 
@@ -5,3 +6,6 @@
 
 桃園護理之家資訊練習
 
+=======
+# tayouan-nursing-home
+>>>>>>> parent of d1534bb (Update README.md)
